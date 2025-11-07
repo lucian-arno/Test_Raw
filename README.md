@@ -1,9 +1,12 @@
-```
-本项目的数据源来自 [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) 项目，在此向所有提供数据的作者们致以诚挚的感谢。
-本项目的数据源来自 [ShuntRules](https://github.com/luestr/ShuntRules) 项目，在此向所有提供数据的作者们致以诚挚的感谢。
-```
+> [!NOTE]
+> 本项目的数据源来自 [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) 项目，在此向所有提供数据的作者们致以诚挚的感谢。
+> 本项目的数据源来自 [ShuntRules](https://github.com/luestr/ShuntRules) 项目，在此向所有提供数据的作者们致以诚挚的感谢。
 
-# 本项目所有内容仅用于测试，不会搬运或二次发布原作者内容，测试完成后会删除，如有侵权，请联系我删除
+# 测试项目
+
+```
+本项目所有内容仅用于测试，不会搬运或二次发布原作者内容，测试完成后会删除，如有侵权，请联系我
+```
 
 鉴于 Loon 在规则匹配性能方面一直表现出色，即使加载 [783 万条规则](https://t.me/Loon0x00/2304947) 也丝毫不影响其匹配效率。因此，原项目中细分的规则对 Loon 来说已无必要。本项目旨在将细分的规则合并为一份统一的规则文件，以减少用户的选择困扰。
 
