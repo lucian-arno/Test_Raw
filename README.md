@@ -1,9 +1,7 @@
-> [!NOTE]
-> 本项目的数据源来自 [ShuntRules](https://github.com/luestr/ShuntRules) 项目，在此向所有提供数据的作者们致以诚挚的感谢。
-
 ## 测试项目
 
 本项目所有内容仅用于测试，不会搬运或二次发布原作者内容，测试完成后会删除，如有侵权，请联系本人进行删除
+本项目的数据源来自 [ShuntRules](https://github.com/luestr/ShuntRules) 项目，在此向所有提供数据的作者们致以诚挚的感谢。
 
 ### 测试目录
 
